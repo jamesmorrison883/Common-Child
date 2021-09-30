@@ -1,0 +1,16 @@
+C:\Users\morrisonje\OneDrive - National Oilwell Varco\Programming Projects\CommonChild\src\CommonChild\bin\Debug\net5.0\CommonChild.exe
+C:\Users\morrisonje\OneDrive - National Oilwell Varco\Programming Projects\CommonChild\src\CommonChild\bin\Debug\net5.0\CommonChild.deps.json
+C:\Users\morrisonje\OneDrive - National Oilwell Varco\Programming Projects\CommonChild\src\CommonChild\bin\Debug\net5.0\CommonChild.runtimeconfig.json
+C:\Users\morrisonje\OneDrive - National Oilwell Varco\Programming Projects\CommonChild\src\CommonChild\bin\Debug\net5.0\CommonChild.runtimeconfig.dev.json
+C:\Users\morrisonje\OneDrive - National Oilwell Varco\Programming Projects\CommonChild\src\CommonChild\bin\Debug\net5.0\CommonChild.dll
+C:\Users\morrisonje\OneDrive - National Oilwell Varco\Programming Projects\CommonChild\src\CommonChild\bin\Debug\net5.0\ref\CommonChild.dll
+C:\Users\morrisonje\OneDrive - National Oilwell Varco\Programming Projects\CommonChild\src\CommonChild\bin\Debug\net5.0\CommonChild.pdb
+C:\Users\morrisonje\OneDrive - National Oilwell Varco\Programming Projects\CommonChild\src\CommonChild\obj\Debug\net5.0\CommonChild.csproj.AssemblyReference.cache
+C:\Users\morrisonje\OneDrive - National Oilwell Varco\Programming Projects\CommonChild\src\CommonChild\obj\Debug\net5.0\CommonChild.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morrisonje\OneDrive - National Oilwell Varco\Programming Projects\CommonChild\src\CommonChild\obj\Debug\net5.0\CommonChild.AssemblyInfoInputs.cache
+C:\Users\morrisonje\OneDrive - National Oilwell Varco\Programming Projects\CommonChild\src\CommonChild\obj\Debug\net5.0\CommonChild.AssemblyInfo.cs
+C:\Users\morrisonje\OneDrive - National Oilwell Varco\Programming Projects\CommonChild\src\CommonChild\obj\Debug\net5.0\CommonChild.csproj.CoreCompileInputs.cache
+C:\Users\morrisonje\OneDrive - National Oilwell Varco\Programming Projects\CommonChild\src\CommonChild\obj\Debug\net5.0\CommonChild.dll
+C:\Users\morrisonje\OneDrive - National Oilwell Varco\Programming Projects\CommonChild\src\CommonChild\obj\Debug\net5.0\ref\CommonChild.dll
+C:\Users\morrisonje\OneDrive - National Oilwell Varco\Programming Projects\CommonChild\src\CommonChild\obj\Debug\net5.0\CommonChild.pdb
+C:\Users\morrisonje\OneDrive - National Oilwell Varco\Programming Projects\CommonChild\src\CommonChild\obj\Debug\net5.0\CommonChild.genruntimeconfig.cache
